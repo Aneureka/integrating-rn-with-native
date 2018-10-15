@@ -1,0 +1,5 @@
+rootProject.name = 'example'
+include ':rn-with-native'
+project(':rn-with-native').projectDir = new File(rootProject.projectDir, '../node_modules/rn-with-native/android')
+
+include ':app'

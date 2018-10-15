@@ -1,0 +1,18 @@
+{
+  "name": "rn-with-native",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "React Native integrating with native module sample",
+  "author": "Aneureka <aneureka2@gamil.com>",
+  "main": "index.js",
+  "scripts": {},
+  "peerDependencies": {
+    "react-native": ">=0.56.0"
+  },
+  "devDependencies": {
+    "flow-bin": "0.80.0",
+    "husky": "0.14.3",
+    "lint-staged": "7.2.2",
+    "prettier": "1.14.2"
+  }
+}

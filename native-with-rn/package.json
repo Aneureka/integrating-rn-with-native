@@ -1,0 +1,24 @@
+{
+  "name": "integrating-samples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "deploy-ios": "react-native bundle --platform ios --dev false --entry-file index.js --bundle-output main.jsbundle",
+    "deploy-android": "react-native bundle --platform android --dev false --entry-file index.js --bundle-output main.android.jsbundle"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.5.0",
+    "react-native": "^0.57.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.19.1",
+    "webpack-cli": "^3.1.1",
+    "webpack-dev-server": "^3.1.9"
+  }
+}
