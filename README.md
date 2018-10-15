@@ -33,8 +33,11 @@ Official docs: [Integration with Existing Apps -- iOS](http://facebook.github.io
 The framework size is approximately **7.5MB** when it is a extremely simple project.
 
 - app initial size: **51KB**
-
 - app integrating react-native size: **7.5MB**
+
+#### Screenshot
+
+<img src="https://i.loli.net/2018/10/15/5bc4574a72dfe.gif" style="width:250px; align:left;" />
 
 
 
@@ -88,6 +91,10 @@ Official docs: [Integration with Existing Apps -- Android](http://facebook.githu
 - app initial size: **1.5MB** (release)
 - app integrating rn size: **7.8MB** (release)
 
+#### Screenshot
+
+<img src="https://i.loli.net/2018/10/15/5bc4574a72dfe.gif" style="width:250px; align:left;" />
+
 
 
 ### Build to npm package
@@ -103,5 +110,9 @@ Official docs:
 1. Follow the offcial docs to create your react-native projects and add the native modules
 2. Connect to the feed and publish the package there
 3. See the demo if you're confused about this
+
+#### Screenshot
+
+<img src="https://i.loli.net/2018/10/15/5bc458c152a3c.jpg" style="width:250px; align:left;" />
 
 
