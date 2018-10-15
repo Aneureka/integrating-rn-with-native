@@ -37,7 +37,7 @@ The framework size is approximately **7.5MB** when it is a extremely simple proj
 
 #### Screenshot
 
-<img src="https://i.loli.net/2018/10/15/5bc4574a72dfe.gif" style="width:250px; align:left;" />
+<img src="https://i.loli.net/2018/10/15/5bc4574a72dfe.gif" width="250px" />
 
 
 
@@ -93,7 +93,7 @@ Official docs: [Integration with Existing Apps -- Android](http://facebook.githu
 
 #### Screenshot
 
-<img src="https://i.loli.net/2018/10/15/5bc4574a72dfe.gif" style="width:250px; align:left;" />
+<img src="https://i.loli.net/2018/10/15/5bc4574a72dfe.gif" width="250px" />
 
 
 
@@ -113,6 +113,6 @@ Official docs:
 
 #### Screenshot
 
-<img src="https://i.loli.net/2018/10/15/5bc458c152a3c.jpg" style="width:250px; align:left;" />
+<img src="https://i.loli.net/2018/10/15/5bc458c152a3c.jpg" width="250px" />
 
 
